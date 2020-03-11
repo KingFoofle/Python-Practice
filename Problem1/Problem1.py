@@ -22,3 +22,5 @@ if __name__ == "__main__":
 
     else:
         print("Congratulations! You passed!")
+        print("\nTry another version of this problem at:")
+        print("https://www.hackerrank.com/challenges/birthday-cake-candles/problem")
