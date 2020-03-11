@@ -7,7 +7,6 @@ import test_Problem1
 # Skills needed: Loops, Sorting, If statements, Return
 
 def number_frequency(numList):
-    # Check for empty list
     pass
 
 
